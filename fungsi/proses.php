@@ -45,7 +45,7 @@ fclose($fp);
 
         <script>
             function transaksiLagi() {
-                window.location.href = '../index.php';
+                window.location.href = '../index.html';
             }
 
             function lihatRiwayat() {

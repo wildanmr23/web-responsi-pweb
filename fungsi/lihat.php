@@ -21,5 +21,5 @@ while ($isi = fgets($fp, 2048)) {
 
 fclose($fp);
 echo "</table>";
-echo "<div align='center'><a href='../index.php'>Klik Disini</a> Untuk Melakukan Transaksi</div>";
+echo "<div align='center'><a href='../index.html'>Klik Disini</a> Untuk Melakukan Transaksi</div>";
 ?>
